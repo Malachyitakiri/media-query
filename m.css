@@ -1,0 +1,56 @@
+h1, h2{
+    color: blueviolet;
+
+}
+
+.box>p{
+    color: firebrick;
+}
+
+.box li{
+    color: blue;
+}
+
+ul li.done {
+    color:red;
+}
+
+ul p.done{
+        font-size: 0.5rem;
+}
+
+
+ul li.C{
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    
+
+}
+
+ul li.w{
+    background-color:blue;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    display:;
+
+}
+
+ul li.n{
+    background-color:yellow;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+
+}
+
+img{
+    float:right;
+}
+
+
+img, p.on{
+    float: ;
+}
